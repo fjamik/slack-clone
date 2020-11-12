@@ -1,5 +1,18 @@
 # You can view demo at: https://slack-clone-46d51.web.app
 
+## Technologies:
+
+- React
+- Google User Authentication (Firebase)
+- React Context API (Redux)
+- HTML
+- CSS Variable
+- Material UI (Icons)
+- JavaScript
+- Flexbox
+- Deploy it with Firebase
+- Real-time database(Firebase)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
